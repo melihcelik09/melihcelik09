@@ -1,7 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Melih Çelik</h1>
-![gif](https://camo.githubusercontent.com/d5c5cb89419e58912e33bd9bc673b80d91bce6f1378ca8abc03f3b796ed9e486/68747470733a2f2f67697068792e636f6d2f7374617469632f696d672f73646b2f6361742e676966)
-
 
 
 <h3 align="center">I am a third year Computer Engineering student at Adnan Menderes University. So far I have been interested in C, Python, Java, HTML, CSS and Boostrap. I will try whatever I can. I am open to learning all kinds of technologies.</h3>
