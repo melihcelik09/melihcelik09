@@ -3,7 +3,7 @@
 
 <h3 align="center">I am a Computer Engineering student at Adnan Menderes University. So far I have been interested in C, Python, Java, HTML, CSS,Boostrap,. I will try whatever I can. I am open to learning all kinds of technologies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=melihcelik09&label=Profile%20views&color=0e75b6&style=flat" alt="melihcelik09" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=melihcelik09&label=Profile%20views&color=0e75b6&style=flat" alt="melihcelik09" /> </p>
 
 - 🌱 I’m currently learning **React and Flutter.**
 
