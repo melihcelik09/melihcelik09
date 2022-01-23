@@ -1,6 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Melih Çelik</h1>
-![Ekran görüntüsü 2022-01-23 220403 (1)](https://user-images.githubusercontent.com/68864968/150693984-728ffac4-4f23-4fb2-9a7a-e7c5752eebbe.png)
+<p align="center">
+<img src="https://user-images.githubusercontent.com/68864968/150693984-728ffac4-4f23-4fb2-9a7a-e7c5752eebbe.png" width="300" height="320"/></p>
 <p align="center">
 <a href="https://linkedin.com/in/melihcelik09">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
