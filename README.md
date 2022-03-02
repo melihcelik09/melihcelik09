@@ -35,7 +35,7 @@
 
 <h3 align="center">
   I am a Computer Engineering student at Adnan Menderes University. So far I
-  have been interested in C, Python, Java, HTML, CSS,Boostrap,JS. I will try
+  have been interested in C, Python, Java, HTML, CSS,Bootstrap,JS. I will try
   whatever I can. I am open to learning all kinds of technologies.
 </h3>
 
