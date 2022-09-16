@@ -1,10 +1,9 @@
-<h1 align="center">Hi 👋, I'm Melih</h1>
-<p align="center">
-  <img
-    src="https://user-images.githubusercontent.com/68864968/150693984-728ffac4-4f23-4fb2-9a7a-e7c5752eebbe.png"
-    width="300"
-    height="320"
-  />
+<h1 align="center">
+  Hi 👋, I'm Melih 
+</h1>
+
+<p align="center">  
+  <img src="https://user-images.githubusercontent.com/68864968/190638579-d3827751-6986-4494-a322-addcfca914f2.gif">
 </p>
 <p align="center">
   <a href="https://linkedin.com/in/melihcelik09">
@@ -36,7 +35,7 @@
 </p>
 
 - 🌱 I’m currently learning **Flutter.**
-- 📄 Know about my experiences [My Resume Here](https://www.canva.com/design/DAFJrHOA8lk/oXbM9JTbU0nJqN_neWplVQ/view?utm_content=DAFJrHOA8lk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [here](https://www.canva.com/design/DAFJrHOA8lk/oXbM9JTbU0nJqN_neWplVQ/view?utm_content=DAFJrHOA8lk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
 <table align="center">
   <tr>
@@ -54,3 +53,6 @@
     </th>
   </tr>
 </table>
+<p align="center"> 
+   <img src="https://user-images.githubusercontent.com/68864968/150693984-728ffac4-4f23-4fb2-9a7a-e7c5752eebbe.png" width="100" height="120"/>
+</p>
