@@ -35,7 +35,7 @@
 </p>
 
 - 🌱 I’m currently learning **Flutter.**
-- 📄 Know about my experiences [here](https://www.canva.com/design/DAFJrHOA8lk/oXbM9JTbU0nJqN_neWplVQ/view?utm_content=DAFJrHOA8lk&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
+- 📄 Know about my experiences [here](https://flowcv.com/resume/epaiigp144)
 
 ## Technical Skills  
 <table align="center"><tr><td valign="top" width="33%">
