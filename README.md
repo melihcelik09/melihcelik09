@@ -34,7 +34,7 @@
   />
 </p>
 
-- 🌱 I’m currently learning **Flutter.**
+- 🌱 I’m currently learning **Flutter and SwiftUI.** 
 - 📄 Know about my experiences [here](https://flowcv.com/resume/epaiigp144)
 
 ## Technical Skills  
