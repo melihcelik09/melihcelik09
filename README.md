@@ -1,122 +1,95 @@
 <h1 align="center">
-  Hi 👋, I'm Melih 
+  Merhaba 👋, Ben Melih
 </h1>
 
 <p align="center">  
   <img src="https://user-images.githubusercontent.com/68864968/190638579-d3827751-6986-4494-a322-addcfca914f2.gif">
 </p>
+
+---
+
+## Hakkımda
+
+Mobil uygulama geliştirme alanında uzmanlaşmış bir yazılım geliştiricisiyim.  
+İki yılı aşkın süredir Flutter ile çapraz platform uygulamalar geliştiriyor ve sürdürüyorum.  
+Temiz mimari, durum yönetimi (BLoC, Provider vb.) ve API entegrasyonu konularında tecrübeliyim.  
+App Store ve Google Play'de yayınlanma süreçlerine hakimim.
+Çevik geliştirme süreçlerinde, ekip çalışmasında ve kod kalitesi standartlarında deneyim sahibiyim.
+
+---
+
+## 🚀 Öne Çıkan Projeler
+
+- [Bluetooth Messaging Project](https://github.com/melihcelik09/bluetooth_messaging_project)
+- [Template Team App](https://github.com/melihcelik09/template_team_app)
+- [Ramadan App](https://github.com/melihcelik09/ramadan_app) 
+
+---
+
+## 📦 Geliştirdiğim Paketler
+
+- [Magic App Icon](https://github.com/melihcelik09/magic_app_icon) — Uygulama ikonlarını kolayca yönetmenizi sağlayan Flutter paketi.
+- [Steel Alert](https://github.com/melihcelik09/steel_alert) — Özelleştirilebilir Flutter uyarı (alert) paketi.
+
+---
+
+## 🌱 Şu An Öğrendiklerim
+
+Mobil uygulama geliştirmede **Flutter** ve **SwiftUI** konusunda kendimi ilerletiyorum, çapraz platform projelerde deneyim kazanıyorum.
+
+📄 Deneyimlerimi [buradan inceleyebilirsiniz (CV)](https://flowcv.com/resume/epaiigp144)
+
+---
+
+## 💼 İletişim
+
 <p align="center">
   <a href="https://linkedin.com/in/melihcelik09">
-    <img
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
-    /> </a
-  ><a href="mailto:melihcelikcodes@gmail.com">
-    <img
-      src="https://img.shields.io/badge/mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:melihcelikcodes@gmail.com"
-    />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:melihcelikcodes@gmail.com">
+    <img src="https://img.shields.io/badge/mail-c14438?style=for-the-badge&logo=Gmail&logoColor=white"/>
   </a>
   <a href="https://www.instagram.com/melihcelik48/">
-    <img
-      src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://twitter.com/melihclk48">
-    <img
-      src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"
-    />
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
   </a>
 </p>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=melihcelik09&label=Profile%20views&color=0e75b6&style=flat"
-    alt="melihcelik09"
-  />
-</p>
+---
 
-- 🌱 I’m currently learning **Flutter and SwiftUI.** 
-- 📄 Know about my experiences [here](https://flowcv.com/resume/epaiigp144)
+## 🛠️ Teknik Yetenekler
 
-## Technical Skills  
-<table align="center"><tr><td valign="top" width="33%">
-
-
-
-### Frontend  
 <div align="center">  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.tailwindcss.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/tailwindcss.svg" alt="Tailwind CSS" height="50" /></a>  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" height="50"/> </a>
-</div>
-  
-### Backend
- <div align="center">  
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" height="50"/> </a>
-</div>
-  
-
-</td><td valign="top" width="33%">
-
-
-
-### Mobile  
-<div align="center">  
-<a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
-<a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>  
-</div>  
-
-
-
-### Database  
-<div align="center">  
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" height="50"/> </a> 
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>  
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="50"/> </a>
+  <a href="https://dart.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/dartlang-icon.svg" alt="Dart" height="50" /></a>  
+  <a href="https://flutter.dev/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flutterio-icon.svg" alt="Flutter" height="50" /></a>
+  <a href="https://developer.apple.com/swift/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/swift-original-wordmark.svg" alt="Swift" height="50" /></a>
 </div>
 
-</td>
-  <td valign="top" width="33%">
+---
 
-
-
-### Interested  
-<div align="center">  
-<a href="https://www.cprogramming.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/c-original.svg" alt="C" height="50" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="50" /></a>  
-<a href="https://www.python.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" /></a>  
- <a href="https://firebase.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/firebase.png" alt="Firebase" height="50" /></a>  
-<a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" height="50"/> </a>
-</div>  
-
-
-
-### Version Control  
-<div align="center">  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-</div>
-
-</td></tr></table>  
+## 📊 GitHub İstatistikleri
 
 <table align="center">
   <tr>
     <th>
-      <img
-        src="https://github-readme-stats.vercel.app/api?username=melihcelik09&show_icons=true&locale=en&hide=contribs,issues&theme=github_dark&hide_border=true"
-        alt="melihcelik09"
-      />
+      <img src="https://github-readme-stats.vercel.app/api?username=melihcelik09&show_icons=true&locale=tr&hide=contribs,issues&theme=github_dark&hide_border=true" alt="melihcelik09" />
     </th>
     <th>
-      <img
-        src="https://github-readme-stats.vercel.app/api/top-langs?username=melihcelik09&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
-        alt="melihcelik09"
-      />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs?username=melihcelik09&show_icons=true&locale=tr&layout=compact&theme=github_dark&hide_border=true" alt="melihcelik09" />
     </th>
   </tr>
 </table>
+
 <p align="center"> 
    <img src="https://user-images.githubusercontent.com/68864968/150693984-728ffac4-4f23-4fb2-9a7a-e7c5752eebbe.png" width="100" height="120"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=melihcelik09&label=Profile%20views&color=0e75b6&style=flat" alt="melihcelik09" />
+</p>
+<p align="center">
+  <b>Profilimi ziyaret ettiğiniz için teşekkürler! 😊</b>
 </p>
