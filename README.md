@@ -11,7 +11,7 @@
 ## Hakkımda
 
 Mobil uygulama geliştirme alanında uzmanlaşmış bir yazılım geliştiricisiyim.  
-İki yılı aşkın süredir Flutter ile çapraz platform uygulamalar geliştiriyor ve sürdürüyorum.  
+İki yılı aşkın süredir Flutter ile cross-platform uygulamalar geliştiriyor ve sürdürüyorum.  
 Temiz mimari, durum yönetimi (BLoC, Provider vb.) ve API entegrasyonu konularında tecrübeliyim.  
 App Store ve Google Play'de yayınlanma süreçlerine hakimim.
 Çevik geliştirme süreçlerinde, ekip çalışmasında ve kod kalitesi standartlarında deneyim sahibiyim.
