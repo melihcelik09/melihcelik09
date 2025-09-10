@@ -35,7 +35,7 @@ App Store ve Google Play'de yayınlanma süreçlerine hakimim.
 
 ## 🌱 Şu An Öğrendiklerim
 
-Mobil uygulama geliştirmede **Flutter** ve **SwiftUI** konusunda kendimi ilerletiyorum, çapraz platform projelerde deneyim kazanıyorum.
+Mobil uygulama geliştirmede **Flutter** ve **SwiftUI** konusunda kendimi ilerletiyorum, cross-platform projelerde deneyim kazanıyorum.
 
 📄 Deneyimlerimi [buradan inceleyebilirsiniz (CV)](https://flowcv.com/resume/epaiigp144)
 
